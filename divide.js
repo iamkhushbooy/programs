@@ -1,5 +1,5 @@
-const multiply=(x,y)=>{
+const divide=(x,y)=>{
     return x/y;
 
 }
-console.log(multiply(12,5));
+console.log(divide(12,5));
